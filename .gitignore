@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+# variables de entorno
+.env
 
 # C extensions
 *.so
