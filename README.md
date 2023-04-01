@@ -25,5 +25,5 @@ La aplicación incluye un ejemplo de cómo utilizar la API con Python para envia
 Esta aplicación fue creada por Victor Arbiol, desarrollador de software con experiencia en desarrollo web y aplicaciones en la nube. Si tienes alguna pregunta o sugerencia, no dudes en contactar conmigo a través de mi perfil en GitHub o en mi sitio web personal.
 
 ## Licencia
-Este proyecto está bajo la licencia MIT, lo que significa que puedes utilizarlo, copiarlo, modificarlo y distribuirlo libremente siempre y cuando se mantengan las mismas condiciones de la licencia. Consulta el archivo "LICENSE" para más información.
+Este proyecto está bajo la licencia MIT, lo que significa que puedes utilizarlo, copiarlo, modificarlo y distribuirlo libremente siempre y cuando se mantengan las mismas condiciones de la licencia. Consulta el archivo "LICENSE" para más información...
 
